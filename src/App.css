@@ -3,7 +3,7 @@ body {
   margin: 0;
   font-family: "Poppins", sans-serif;
   transition: background 0.4s, color 0.4s;
-  background: "#0e0e0e"
+  background: #0e0e0e;
 }
 
 body.dark {
@@ -513,8 +513,6 @@ body.light .project-buttons .btn.secondary:hover {
     height: 180px;
   }
 }
-f
-
 /* Contact Section */
 .contact-info {
   text-align: center;
